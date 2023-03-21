@@ -22,6 +22,8 @@
 - [C++ 从入门到入土](https://streamazure.github.io/Cpp_Notes/)
 - [计算机基础综合笔记](https://streamazure.github.io/Computer_Basics_Notes/)
 
+[![StreamAzure's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/StreamAzure/github-readme-stats)
+
 > ***I love to make friends. so if you want to say hi, I'll be happy to meet you more!😊***
 
 ⭐️ From [StreamAzure](https://github.com/StreamAzure)
