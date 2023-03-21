@@ -7,7 +7,8 @@
 - 计算机专业在读
 - 🌱 我的[博客](https://www.cnblogs.com/streamazure/)
 - 💬 C/C++选手，服务端/Qt方向（Qt在学了在学了）
-- ⚡ Fun fact: Data Analysis📊
+- 
+[![StreamAzure's GitHub stats](https://github-readme-stats.vercel.app/api?username=StreamAzure&theme=buefy&show_icons=true)](https://github.com/StreamAzure/github-readme-stats)
 
 ### 🛠 技术栈 | Tech Stack
 
@@ -22,7 +23,7 @@
 - [C++ 从入门到入土](https://streamazure.github.io/Cpp_Notes/)
 - [计算机基础综合笔记](https://streamazure.github.io/Computer_Basics_Notes/)
 
-[![StreamAzure's GitHub stats](https://github-readme-stats.vercel.app/api?username=StreamAzure)](https://github.com/StreamAzure/github-readme-stats)
+
 
 > ***I love to make friends. so if you want to say hi, I'll be happy to meet you more!😊***
 
