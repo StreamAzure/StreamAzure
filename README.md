@@ -1,7 +1,5 @@
 ## Hello 👋
 ---
-<img align="right" alt="GIF" src="https://raw.githubusercontent.com/JoeyBling/JoeyBling/master/pic/pusheencode.gif" />
-
 ### I'm StreamAzure
 
 - 计算机专业在读
