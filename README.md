@@ -11,8 +11,8 @@
 
 ### 🛠 技术栈 | Tech Stack
 
--![C](https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg)
-![C++](https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg)
+-![C](https://img.shields.io/badge/C-%E8%AF%AD%E8%A8%80-red))
+![C++](https://img.shields.io/badge/C%2B%2B-%E8%AF%AD%E8%A8%80-orange)
 ![Linux](https://img.shields.io/badge/-Linux-333333?style=flat&logo=Linux&logoColor=FCC624)
 -![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
