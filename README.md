@@ -6,8 +6,8 @@
 
 - 计算机专业在读
 - 🌱 我的[博客](https://www.cnblogs.com/streamazure/)
-- 💬 C/C++选手，服务端/Qt方向（Qt在学了在学了）
-- 
+- 💬 C/C++ 选手，服务端/Qt 方向
+- 🚀 正在学习：Qt / MIT6.828 / CMU 15-445
 [![StreamAzure's GitHub stats](https://github-readme-stats.vercel.app/api?username=StreamAzure&theme=buefy&show_icons=true)](https://github.com/StreamAzure/github-readme-stats)
 
 ### 🛠 技术栈 | Tech Stack
