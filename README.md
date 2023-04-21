@@ -1,7 +1,7 @@
 ## Hello 👋
 ### I'm StreamAzure
 
-- 计算机专业在读
+- SYSU 硕士研究生在读
 - 🌱 我的[博客](https://www.cnblogs.com/streamazure/)
 - 💬 C / C++ 选手，云计算 / 服务端 方向
 - 🚀 正在学习：MIT 6.824 / MIT 6.828 / CMU 15-445
