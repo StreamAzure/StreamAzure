@@ -5,7 +5,7 @@
 - 🌱 我的[博客](https://www.cnblogs.com/streamazure/)
 - 💬 C / C++ / Go 选手，方向待定
 - 🚀 正在恶补基础：MIT 6.828 操作系统工程 / CMU15-445(CS:APP) / CS149 并行计算
-- ✨ 课程笔记及 Lab 记录：**(天文之路)[https://streamazure.github.io/Tianwen/]**
+- ✨ 课程笔记及 Lab 记录：**[天问之路](https://streamazure.github.io/Tianwen/)**
 
 [![StreamAzure's GitHub stats](https://github-readme-stats.vercel.app/api?username=StreamAzure&theme=buefy&show_icons=true)](https://github.com/StreamAzure/github-readme-stats)
 
