@@ -4,7 +4,7 @@
 - SYSU 硕士研究生在读
 - 🌱 我的[博客](https://www.cnblogs.com/streamazure/)
 - 💬 C / C++ / Go 选手，方向待定
-- 🚀 正在恶补基础：[MIT 6.828 操作系统工程](https://github.com/StreamAzure/MIT6.828_Lab) / CMU15-213(CS:APP) / CS149 并行计算
+- 🚀 正在恶补基础：[MIT 6.828 操作系统工程](https://github.com/StreamAzure/MIT6.828_Lab) / [CMU15-213(CS:APP)](https://github.com/StreamAzure/CMU15-213_Lab) / CS149 并行计算
 - ✨ 课程笔记及 Lab 记录：**[天问之路](https://streamazure.github.io/Tianwen/)**
 
 [![StreamAzure's GitHub stats](https://github-readme-stats.vercel.app/api?username=StreamAzure&theme=buefy&show_icons=true)](https://github.com/StreamAzure/github-readme-stats)
