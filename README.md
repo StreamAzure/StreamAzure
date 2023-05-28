@@ -18,8 +18,6 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
 ![Markdown](https://img.shields.io/badge/-Markdown-333333?style=flat&logo=markdown)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=StreamAzure&layout=compact)](https://github.com/StreamAzure/github-readme-stats)
-
 ### 📝 笔记系列 | Notes
 - [C++ 从入门到入土](https://streamazure.github.io/Cpp_Notes/)
 - [计算机基础综合笔记](https://streamazure.github.io/Computer_Basics_Notes/)
